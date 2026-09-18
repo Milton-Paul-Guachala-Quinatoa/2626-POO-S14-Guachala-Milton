@@ -81,6 +81,3 @@ python main.py
 
 También se puede ejecutar desde VS Code con **Run Python File**.
 
-## Semana 14
-
-Esta versión corresponde a la evolución del proyecto de la Semana 13 y se enfoca en el uso de componentes, contenedores, formularios, tablas y controles de acción de Tkinter/ttk.
