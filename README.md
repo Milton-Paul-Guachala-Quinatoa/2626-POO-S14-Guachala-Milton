@@ -62,14 +62,46 @@ La interfaz se encarga de mostrar la información y recibir los datos. `Restaura
 
 Usuario | Contraseña
 
-`Milton` `admin` 
+`Milton` `admin`
+
+
+
+
 `Sofia` `sofia123`
+
+
+
+
 `Carlos` `carlos123`
+
+
+
+
 `Valentina` `vale123`
+
+
+
+
 `Diego` `diego123`
+
+
+
+
 `Camila` `camila123`
+
+
+
+
 `Andres` `andres123`
+
+
+
+
 `Gabriela` `gabi123`
+
+
+
+
 
 ## Cómo ejecutar
 
